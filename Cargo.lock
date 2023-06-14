@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "web"
+name = "webby"
 version = "0.1.0"
