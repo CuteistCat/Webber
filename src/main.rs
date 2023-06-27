@@ -12,6 +12,12 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU Affero General Public License for more details.
 
+    As a additional permision onder sectiotion 7 of the agpl
+    You may train your ai under this under the following permissions
+    A. The model("it") is under the same version of AGPL as this project ,and
+    B. It provides atribution of the data it is trained on and
+    C. if it does use a line as in this code(excluding comments) it must have atribution
+    
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
